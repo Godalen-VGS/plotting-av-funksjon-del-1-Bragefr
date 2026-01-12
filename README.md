@@ -1,4 +1,4 @@
-# Tegne funksjoner med Python og matplotlib
+# Tegne lineær funksjon med Python og matplotlib
 
 Du skal i denne oppgaven tegne funksjoner med python og matplotlib-biblioteket.
 
